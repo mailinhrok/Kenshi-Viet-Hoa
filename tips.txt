@@ -1,0 +1,64 @@
+Khi bạn cố cạy khóa lồng của chính mình, kỹ năng cạy khóa mất -10.
+Nhận một cú đánh sẽ tăng cường kỹ năng chiến đấu phòng thủ của bạn rất nhanh.
+Chiến đấu với những đối thủ mạnh hơn có thể cải thiện kỹ năng chiến đấu của bạn rất nhanh. Bạn không nhận được nhiều từ việc chiến đấu với kẻ yếu.
+Một số công nghệ chỉ có thể đạt được bằng cách tìm bản thiết kế. Một số bản thiết kế có thể được tìm thấy trong cửa hàng.
+Nếu toàn bộ đội của bạn bị hạ gục, những người sống sót trong đội sẽ chơi như chết cho đến khi kẻ thù ra khỏi tầm chiến đấu. Bạn có thể buộc chúng đứng dậy bằng cách ra lệnh, điều này cũng làm tăng độ dẻo dai của chúng.
+Nếu có quá nhiều xác chết nằm xung quanh, nó sẽ thu hút những kẻ săn mồi.
+Nếu bạn đang cải trang, thì những người cùng băng đảng với kẻ mà bạn đang giả vờ nhìn thấu sẽ dễ dàng nhìn thấu hơn.
+Có thể mở xiềng xích cho nô lệ bằng cách cạy ổ khóa hoặc tìm cưa.
+Những nô lệ trốn thoát nên tránh hầu hết các thị trấn và băng đảng khác cho đến khi ánh đèn sân khấu qua đi.
+Bị đánh bại trong trận chiến không phải lúc nào cũng có nghĩa là kết thúc. Sau một thời gian, ai đó trong đội của bạn có thể hồi máu và cứu những người còn lại trong đội.
+Bạn có thể thiết lập một nhân vật chỉ chịu trách nhiệm "đánh chặn", ở chế độ này, nhân vật này sẽ không tấn công nhưng kỹ năng phòng thủ cận chiến của nó sẽ được +20 điểm. Đó là một cách tuyệt vời để câu giờ khi bạn gặp bất lợi trong giao tranh.
+Nhấn nút "Heal" để ra lệnh cho nhân vật được chọn tự động hồi máu cho tất cả các thành viên trong nhóm. Nếu bạn giữ phím Shift và nút cùng lúc, nhân vật sẽ đảm nhận vai trò Medic vĩnh viễn.
+Nếu một nô lệ lấy hết thiết bị của bạn, anh ta có thể sẽ cất tất cả ở đâu đó. Có lẽ bạn có thể lấy lại thiết bị.
+Nếu chủ nô cạo tóc của bạn, bạn có thể đến gặp bác sĩ phẫu thuật thẩm mỹ và yêu cầu tóc mọc lại. Những kẻ này thường đi chơi ở các quán bar.
+Sự khác biệt về chiều cao giữa tháp pháo và mục tiêu mà nó đang bắn vào mang lại cho tháp pháo phần thưởng về tầm bắn, độ chính xác và sát thương. Tốt nhất là đặt tháp pháo trên đỉnh đồi và tường thành.
+Nếu một nhân vật có tiền thưởng, bạn có thể chuyển anh ta cho cảnh sát để nhận tiền thưởng.
+Bạn sẽ chậm hơn với một cổ phiếu nặng, nhưng đó là một cách tuyệt vời để tăng cường sức mạnh.
+Bạn có thể xây dựng các tòa nhà thông qua nút "Build" ở trên cùng bên phải của GUI. Để hoàn thành việc xây dựng, nhân vật của bạn cần có vật liệu xây dựng trong kho của mình.
+Bạn có thể mua các tòa nhà trống hoặc bị phá hủy trong các thị trấn. Nếu tòa nhà được rao bán, hãy nhấp vào cửa của tòa nhà đó và nút "mua" sẽ xuất hiện ở phía dưới bên trái màn hình.
+Sử dụng ba lô là một cách tuyệt vời để mang nhiều đồ hơn, nhưng những chiếc ba lô lớn hơn có thể cản trở bạn trong chiến đấu.
+Trộm cắp, cạy khóa và cướp là những tội ác sẽ khiến bạn bị treo thưởng nếu bị bắt trong thị trấn.
+Nếu nhân vật của bạn có tiền thưởng, anh ta nên tránh các thị trấn có cảnh sát. Tuy nhiên, có thể mất một lúc để mọi người nhận ra bạn, vì vậy nếu bạn phải vào một thị trấn như vậy, hãy tránh bị chú ý và nhanh chóng rời khỏi thị trấn.
+Tiền thưởng của bạn càng cao, càng có nhiều người nhận ra bạn. Cảnh sát và thợ săn tiền thưởng là những người quan sát sắc sảo nhất, trong khi người dân chỉ nhận ra những tên tội phạm nổi tiếng nhất.
+Nếu ai đó có tiền thưởng cho họ, bạn có thể tấn công họ theo ý muốn mà không gặp rắc rối với cảnh sát.
+Cơ hội ăn cắp thành công từ thùng hàng của cửa hàng dựa trên kỹ năng "ăn cắp" của bạn, đồng thời cũng dựa trên khoảng cách giữa bạn và chủ cửa hàng.
+Khi bạn đang lén lút, khoảng cách mà người khác có thể nghe thấy bạn phụ thuộc vào kỹ năng lén lút của bạn. Các nhân vật nhạy cảm hơn với âm thanh khi họ đang ngủ.
+Hãy cẩn thận khi bán các mặt hàng bị đánh cắp hoặc cướp bóc. Chủ cửa hàng không quan tâm nếu bạn bán cho họ chiến lợi phẩm từ kẻ thù của họ, nhưng đừng cố bán cho họ những mặt hàng của chính họ.
+Nếu bạn đang cướp của một băng đảng lớn, mặc đồng phục của họ là một cách ngụy trang tốt, nhưng đừng ngạc nhiên nếu một trong số họ nhìn thấu bạn và nổi giận.
+Nếu nhân vật đang ở chế độ chiến đấu, hãy nhấn và giữ phím SHIFT và nhấp chuột phải để ra lệnh di chuyển, nhân vật sẽ di chuyển đến vị trí được chỉ định một cách khéo léo và cẩn thận, đồng thời vẫn chiến đấu và tự vệ.
+Nếu bạn đặt căn cứ của mình quá gần các khu định cư khác (chẳng hạn như làng ăn thịt người hoặc làng cướp), bạn sẽ tự chịu rủi ro khi làm như vậy.
+Hãy chú ý đến lãnh thổ mà bạn đang xây dựng, việc xây dựng một ngôi nhà sẽ thu hút sự chú ý của họ.
+Các tháp pháo được trang bị nỏ không cần nguồn điện, có nghĩa là chúng có thể được xây dựng ở bất cứ đâu trong thế giới hoang dã.
+Đó là một ý tưởng rất tồi cho một nhân vật không phải con người mạo hiểm vào lãnh thổ của Thánh Quốc.
+Nếu bạn muốn tồn tại, bạn phải học cách sống trên đời.
+Bạn phải ăn để tồn tại. Để tiếp tục được cho ăn, nhân vật của bạn cần có thức ăn trong kho. Các thành viên trong nhóm sẽ chia sẻ thức ăn trong ba lô.
+Thrall sẽ chỉ được cung cấp đến giá trị tối thiểu, đủ để giữ cho chúng hoạt động, nhưng đủ thấp để chúng không thể trốn thoát.
+Nếu bạn giữ phím SHIFT trong khi nhấp vào một đơn hàng, nhân vật sẽ coi đơn hàng đó là một công việc cố định.
+Khi bạn đang lấy chiến lợi phẩm từ một con vật, bạn có thể nhấn shift và công việc của nhân vật đó sẽ thay đổi thành lấy da và thịt từ khu vực xung quanh.
+Nếu một nhân vật lưu trữ thức ăn trong ba lô, thức ăn sẽ tự động được chia sẻ với các thành viên khác trong đội.
+Town Watch sẽ điều tra các tòa nhà có cửa mở vào ban đêm.
+Đi đến quán bar để tìm những nhân vật mới có thể tuyển dụng, bạn cũng có thể thuê những người bảo vệ trong quán bar và tìm một số người thú vị khác.
+Nếu bạn sử dụng vũ khí lớn trong nhà, bạn sẽ mất một số điểm kỹ năng. Nhân vật sẽ tự động chuyển sang sử dụng vũ khí phụ nếu cần.
+Vũ khí hạng nặng cần hai tay để vận hành. Nếu một nhân vật bị mất một cánh tay, anh ta sẽ chuyển sang sử dụng vũ khí phụ của mình (nếu có).
+Khi các kỹ năng võ thuật của bạn được cải thiện, bạn có thể đạt được các đòn tấn công mạnh hơn.
+Dùng tay không đập vào các bề mặt kim loại (áo giáp, rô-bốt, kiếm, v.v.) sẽ làm tay bạn bị thương (trừ khi bạn là một bộ xương). Các võ sĩ có thể đạt đến mức mà họ không gặp vấn đề gì khi đánh vào kim loại bằng tay không.
+Khi bạn vật lộn với trọng lượng, kỹ năng võ thuật của bạn giảm đi, nhưng chiến đấu với trọng lượng sẽ làm tăng sức mạnh của bạn.
+Các võ sĩ được biết đến với việc đeo các thiết bị hạng nặng để cố tình làm cho các trận chiến của họ trở nên khó khăn hơn.
+Võ thuật là tất cả về chiến đấu tay đôi với kẻ thù, và sát thương gây ra mà không cần vũ khí dựa trên sức mạnh và sự bền bỉ.
+Nếu bạn đóng cửa một tòa nhà, người khác sẽ khó nghe thấy những gì đang diễn ra bên trong.
+Bão cát hạn chế tầm nhìn và thính giác, khiến chúng trở thành thời điểm tuyệt vời cho các hoạt động lén lút.
+Mưa bão ít ảnh hưởng đến tầm nhìn và tầm nghe hơn, do đó có lợi hơn cho việc tàng hình.
+Thiết bị cụ thể bảo vệ bạn khỏi thời tiết. Kính bảo hộ và tấm che mặt sẽ hữu ích trong bão cát và các thiết bị khác sẽ bảo vệ bạn khỏi khí ga, nhiệt và axit.
+Làm việc trong bóng tối, bạn sẽ kém hiệu quả hơn. Nên có một số nguồn ánh sáng trong căn cứ của bạn.
+Nếu bạn muốn khám phá, hãy rời khỏi căn cứ của bạn và quay lại sau, bạn có thể làm như vậy một cách an toàn.
+Bạn có thể nhấp và kéo các nhiệm vụ trong danh sách nhiệm vụ để thay đổi thứ tự ưu tiên.
+Nếu bạn không có ba lô, bạn có thể bỏ một ít thức ăn xuống sàn nhà gần đó để cho gia súc của mình ăn.
+Theo thời gian, Bộ xương tích lũy sát thương vĩnh viễn, làm giảm lượng máu tối đa của chúng. Loại thiệt hại này có thể được sửa chữa trên Giường sửa chữa bộ xương.
+Nếu tay chân bị vật sắc nhọn đâm vào, sẽ bị trừ dưới 100 điểm sinh lực, sau đó sẽ bị gãy tay chân. Tay chân bị cắt cụt là mất mát vĩnh viễn và bạn sẽ phải tìm một sự thay thế cơ học.
+Trong tự nhiên, bạn có thể dựng lều bằng vải để bảo vệ mình khỏi mưa axit.
+Nếu bạn tuyệt vọng, Hive có thể tạo ra những bộ phận giả giá rẻ.
+Chân tay bị cắt đứt là thức ăn yêu thích của chó xương. Những chú chó Bonedog nhỏ hơn có thể trở nên quá phấn khích và bỏ chạy với "phần thưởng" của chúng.
+Bạn có thể xây dựng một lò nung để xử lý các chi bị chặt nằm rải rác xung quanh căn cứ của mình. Chỉ định một nhân vật làm việc ở đó tại lò để nhân vật đó sẽ dọn dẹp nơi này cho bạn. Hoặc bạn chỉ có thể sử dụng các chi bị cắt đứt cho chó xương.
+Nếu bạn đứng trong bóng tối, các NPC trong ánh sáng sẽ không thể nhìn thấy bạn. Nhưng ngược lại, bạn có thể được nhìn thấy cách đó một dặm. Cẩn thận với kẻ thù ẩn nấp trong bóng tối.
+Bản dịch được thực hiện bởi Mai Linh: MaiLinhLeader@gmail.com. Mọi sao chép, chỉnh sửa cần phải thông qua ý kiến của bé! Yêu thương nàk <3
