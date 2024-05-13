@@ -15,3 +15,11 @@ Hướng dân cài đặt:
  - khởi động game, chọn ngôn ngữ: *vi_VN*
  - Chill thôi
 
+-----
+Hướng dân đổi font chữ:
+Tìm font phù hợp ví dụ tại : https://fonts.google.com
+Dán vào vi_VN/gui/fonts   
+Vào file: kenshi_fonts.xml (cùng thư mục) 
+tìm tên tệp font cũ thay thành tên tệp font mới. 
+load lại game => xong
+
